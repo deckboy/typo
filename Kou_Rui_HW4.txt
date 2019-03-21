@@ -1,0 +1,2 @@
+Github:   https://github.com/deckboy/typo.git
+Heroku:   https://calm-plains-69929.herokuapp.com/setup
